@@ -12,7 +12,7 @@ Elemento is a powerful Vue3 panel starter that uses Element-Plus as its UI frame
  - Fully responsive design
  - Powerful features for creating management panels
 
-Getting Started
+## Getting Started
 To get started with Elemento, follow these simple steps:
 
     1. Clone the repository:

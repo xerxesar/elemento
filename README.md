@@ -2,6 +2,7 @@
 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 Elemento is a powerful Vue3 panel starter that uses Element-Plus as its UI framework. It provides a solid foundation for creating beautiful and powerful management panels that can be easily customized to fit your specific needs.
 
